@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sc_ce499312-2c49-4dd2-b298-8c49cfe7250f",
+    "target": "09171234567",
+    "normalized": "09171234567",
+    "type": "Phone",
+    "status": "reported",
+    "reports": 12,
+    "note": "Community reports mention payment and fake-prize messages.",
+    "lastReviewed": "2026-10-04T09:04:02.400Z"
+  },
+  {
+    "id": "sc_fc70fe6d-7d9a-41d1-bf5a-4e37fb46d188",
+    "target": "example-login-verify.com",
+    "normalized": "example-login-verify.com",
+    "type": "Domain",
+    "status": "suspicious",
+    "reports": 4,
+    "note": "Phishing-style indicators in submitted URLs.",
+    "lastReviewed": "2026-10-04T09:04:02.400Z"
+  },
+  {
+    "id": "sc_92a560be-9917-48df-afd2-bf765f112716",
+    "target": "ABC Quick Jobs",
+    "normalized": "abc quick jobs",
+    "type": "Job listing",
+    "status": "under_review",
+    "reports": 3,
+    "note": "Reports mention upfront registration fees.",
+    "lastReviewed": "2026-10-04T09:04:02.400Z"
+  },
+  {
+    "id": "sc_445e79a7-f4f4-4911-9234-412506a5e72e",
+    "target": "Verified Local Shop",
+    "normalized": "verified local shop",
+    "type": "Business",
+    "status": "no_known_reports",
+    "reports": 0,
+    "note": "No known community reports in this demo database.",
+    "lastReviewed": "2026-10-04T09:04:02.400Z"
+  }
+]

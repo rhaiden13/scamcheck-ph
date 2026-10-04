@@ -1,0 +1,34 @@
+[
+  {
+    "id": "scan_6d1ca09a-3adc-4769-8553-be12db7ea3d6",
+    "createdAt": "2026-10-04T09:04:03.467Z",
+    "userId": null,
+    "inputType": "message",
+    "result": {
+      "type": "message",
+      "score": 70,
+      "risk": "high",
+      "indicators": [
+        {
+          "title": "Upfront payment request",
+          "detail": "Requests for money before a prize, job, delivery, or service are a strong scam indicator."
+        },
+        {
+          "title": "OTP / verification-code request",
+          "detail": "Never share a one-time code with another person."
+        },
+        {
+          "title": "Prize / free-money lure",
+          "detail": "Unexpected prizes or easy-money claims commonly appear in scams."
+        }
+      ],
+      "recommendations": [
+        "Do not send money or verification codes.",
+        "Do not open suspicious links.",
+        "Verify the person or company using an official channel.",
+        "Preserve screenshots, receipts, and other evidence."
+      ]
+    },
+    "preview": "You won ₱50,000. Send ₱500 processing fee and OTP now"
+  }
+]

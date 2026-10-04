@@ -1,0 +1,28 @@
+[
+  {
+    "orderId": "DC-2026-858550",
+    "createdAt": "2026-10-04T09:04:04.092Z",
+    "updatedAt": "2026-10-04T09:04:04.701Z",
+    "userId": "usr_0fe296af-c2b5-44c6-91d2-70bed8f4e0a8",
+    "price": 50,
+    "status": "paid_demo",
+    "target": "@fake_shop",
+    "type": "message",
+    "result": {
+      "risk": "suspicious",
+      "score": 52,
+      "identityStatus": "unverified",
+      "note": "DeepCheck correlates evidence and public/legitimate information. It does not promise private identity disclosure or expose unnecessary personal data.",
+      "indicators": [
+        {
+          "title": "Upfront payment request",
+          "detail": "Requests for money before a prize, job, delivery, or service are a strong scam indicator."
+        },
+        {
+          "title": "OTP / verification-code request",
+          "detail": "Never share a one-time code with another person."
+        }
+      ]
+    }
+  }
+]

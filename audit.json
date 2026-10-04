@@ -1,0 +1,42 @@
+[
+  {
+    "id": "aud_98ad0151-76e3-43d4-aed5-352af0869c7f",
+    "at": "2026-10-04T09:04:04.702Z",
+    "actor": "usr_0fe296af-c2b5-44c6-91d2-70bed8f4e0a8",
+    "action": "deepcheck_demo_paid",
+    "target": "DC-2026-858550",
+    "meta": {
+      "price": 50
+    }
+  },
+  {
+    "id": "aud_375fe63c-d0bb-4a5e-af09-01e2a2960afe",
+    "at": "2026-10-04T09:04:04.093Z",
+    "actor": "usr_0fe296af-c2b5-44c6-91d2-70bed8f4e0a8",
+    "action": "deepcheck_created",
+    "target": "DC-2026-858550",
+    "meta": {
+      "price": 50
+    }
+  },
+  {
+    "id": "aud_561ced9a-f229-4137-a5e0-a17cfdcfef6a",
+    "at": "2026-10-04T09:04:04.083Z",
+    "actor": "usr_0fe296af-c2b5-44c6-91d2-70bed8f4e0a8",
+    "action": "report_status_changed",
+    "target": "SC-2026-537737",
+    "meta": {
+      "status": "confirmed_scam"
+    }
+  },
+  {
+    "id": "aud_4abc4944-9d4a-498f-9599-4cfd48ee52fa",
+    "at": "2026-10-04T09:04:03.475Z",
+    "actor": "usr_0fe296af-c2b5-44c6-91d2-70bed8f4e0a8",
+    "action": "report_created",
+    "target": "SC-2026-537737",
+    "meta": {
+      "category": "Fake seller"
+    }
+  }
+]

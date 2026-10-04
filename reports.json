@@ -1,0 +1,16 @@
+[
+  {
+    "id": "SC-2026-537737",
+    "createdAt": "2026-10-04T09:04:03.475Z",
+    "status": "confirmed_scam",
+    "category": "Fake seller",
+    "target": "@fake_shop",
+    "description": "Asked for upfront payment",
+    "reporter": "ScamCheck Admin",
+    "userId": "usr_0fe296af-c2b5-44c6-91d2-70bed8f4e0a8",
+    "evidenceCount": 0,
+    "evidence": [],
+    "reviewedAt": "2026-10-04T09:04:04.083Z",
+    "reviewedBy": "usr_0fe296af-c2b5-44c6-91d2-70bed8f4e0a8"
+  }
+]

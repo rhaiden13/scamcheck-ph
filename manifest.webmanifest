@@ -1,0 +1,10 @@
+{
+  "name":"ScamCheck PH",
+  "short_name":"ScamCheck",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#08111f",
+  "theme_color":"#08111f",
+  "description":"Before you trust it, check it.",
+  "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

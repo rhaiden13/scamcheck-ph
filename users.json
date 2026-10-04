@@ -1,0 +1,11 @@
+[
+  {
+    "id": "usr_0fe296af-c2b5-44c6-91d2-70bed8f4e0a8",
+    "email": "admin@scamcheck.ph",
+    "passwordHash": "7b070560158e017574000f2f42a9b3e7:4a1063aee497676609b4d7e4489ca949cf99c7cb393d4b04f525135e8e5a4142f60c6677c389229c4adb4715e67b92e214a967d65ddae2f92260a21a476b0e9d",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2026-10-04T09:04:02.439Z",
+    "displayName": "ScamCheck Admin"
+  }
+]
